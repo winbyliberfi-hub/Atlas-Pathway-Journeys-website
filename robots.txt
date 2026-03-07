@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atlaspathwayjourneys.com/sitemap.xml
