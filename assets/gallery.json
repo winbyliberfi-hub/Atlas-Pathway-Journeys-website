@@ -1,0 +1,518 @@
+[
+  {
+    "id": "hike-forest-crowd-1",
+    "large": "images/gallery/hike-forest-crowd-1.webp",
+    "thumb": "images/thumbs/hike-forest-crowd-1.webp",
+    "alt": "Hike Forest Crowd"
+  },
+  {
+    "id": "hike-forest-trail-1",
+    "large": "images/gallery/hike-forest-trail-1.webp",
+    "thumb": "images/thumbs/hike-forest-trail-1.webp",
+    "alt": "Hike Forest Trail"
+  },
+  {
+    "id": "waterfall-trail-1",
+    "large": "images/gallery/waterfall-trail-1.webp",
+    "thumb": "images/thumbs/waterfall-trail-1.webp",
+    "alt": "Waterfall Trail"
+  },
+  {
+    "id": "sunset-lake-1",
+    "large": "images/gallery/sunset-lake-1.webp",
+    "thumb": "images/thumbs/sunset-lake-1.webp",
+    "alt": "Sunset Lake"
+  },
+  {
+    "id": "village-hillside-1",
+    "large": "images/gallery/village-hillside-1.webp",
+    "thumb": "images/thumbs/village-hillside-1.webp",
+    "alt": "Village Hillside"
+  },
+  {
+    "id": "mountain-road-hike-1",
+    "large": "images/gallery/mountain-road-hike-1.webp",
+    "thumb": "images/thumbs/mountain-road-hike-1.webp",
+    "alt": "Mountain Road Hike"
+  },
+  {
+    "id": "hike-ridge-line-1",
+    "large": "images/gallery/hike-ridge-line-1.webp",
+    "thumb": "images/thumbs/hike-ridge-line-1.webp",
+    "alt": "Hike Ridge Line"
+  },
+  {
+    "id": "mountain-hut-view-1",
+    "large": "images/gallery/mountain-hut-view-1.webp",
+    "thumb": "images/thumbs/mountain-hut-view-1.webp",
+    "alt": "Mountain Hut View"
+  },
+  {
+    "id": "waterfall-group-wide-1",
+    "large": "images/gallery/waterfall-group-wide-1.webp",
+    "thumb": "images/thumbs/waterfall-group-wide-1.webp",
+    "alt": "Waterfall Group Wide"
+  },
+  {
+    "id": "waterfall-group-portrait-1",
+    "large": "images/gallery/waterfall-group-portrait-1.webp",
+    "thumb": "images/thumbs/waterfall-group-portrait-1.webp",
+    "alt": "Waterfall Group Portrait"
+  },
+  {
+    "id": "tagine-lunch-1",
+    "large": "images/gallery/tagine-lunch-1.webp",
+    "thumb": "images/thumbs/tagine-lunch-1.webp",
+    "alt": "Tagine Lunch"
+  },
+  {
+    "id": "tea-house-interior-1",
+    "large": "images/gallery/tea-house-interior-1.webp",
+    "thumb": "images/thumbs/tea-house-interior-1.webp",
+    "alt": "Tea House Interior"
+  },
+  {
+    "id": "valley-smoke-1",
+    "large": "images/gallery/valley-smoke-1.webp",
+    "thumb": "images/thumbs/valley-smoke-1.webp",
+    "alt": "Valley Smoke"
+  },
+  {
+    "id": "group-wave-1",
+    "large": "images/gallery/group-wave-1.webp",
+    "thumb": "images/thumbs/group-wave-1.webp",
+    "alt": "Group Wave"
+  },
+  {
+    "id": "selfie-guide-group-1",
+    "large": "images/gallery/selfie-guide-group-1.webp",
+    "thumb": "images/thumbs/selfie-guide-group-1.webp",
+    "alt": "Selfie Guide Group"
+  },
+  {
+    "id": "village-alley-hike-1",
+    "large": "images/gallery/village-alley-hike-1.webp",
+    "thumb": "images/thumbs/village-alley-hike-1.webp",
+    "alt": "Village Alley Hike"
+  },
+  {
+    "id": "camel-ride-1",
+    "large": "images/gallery/camel-ride-1.webp",
+    "thumb": "images/thumbs/camel-ride-1.webp",
+    "alt": "Camel Ride"
+  },
+  {
+    "id": "camel-ride-line-1",
+    "large": "images/gallery/camel-ride-line-1.webp",
+    "thumb": "images/thumbs/camel-ride-line-1.webp",
+    "alt": "Camel Ride Line"
+  },
+  {
+    "id": "camels-resting-1",
+    "large": "images/gallery/camels-resting-1.webp",
+    "thumb": "images/thumbs/camels-resting-1.webp",
+    "alt": "Camels Resting"
+  },
+  {
+    "id": "camel-selfie-desert-1",
+    "large": "images/gallery/camel-selfie-desert-1.webp",
+    "thumb": "images/thumbs/camel-selfie-desert-1.webp",
+    "alt": "Camel Selfie Desert"
+  },
+  {
+    "id": "cafe-stop-1",
+    "large": "images/gallery/cafe-stop-1.webp",
+    "thumb": "images/thumbs/cafe-stop-1.webp",
+    "alt": "Cafe Stop"
+  },
+  {
+    "id": "brand-01",
+    "large": "images/highlights/large/brand-01.webp",
+    "thumb": "images/highlights/thumb/brand-01.webp",
+    "alt": "Guests enjoying a guided Atlas Mountains hike with Abdulaziz"
+  },
+  {
+    "id": "brand-02",
+    "large": "images/highlights/large/brand-02.webp",
+    "thumb": "images/highlights/thumb/brand-02.webp",
+    "alt": "Traditional Berber mint tea break on the trail near Imlil"
+  },
+  {
+    "id": "brand-03",
+    "large": "images/highlights/large/brand-03.webp",
+    "thumb": "images/highlights/thumb/brand-03.webp",
+    "alt": "Panoramic valley views on the High Atlas trekking route"
+  },
+  {
+    "id": "brand-04",
+    "large": "images/highlights/large/brand-04.webp",
+    "thumb": "images/highlights/thumb/brand-04.webp",
+    "alt": "Small group hiking through an Atlas Mountains village"
+  },
+  {
+    "id": "brand-05",
+    "large": "images/highlights/large/brand-05.webp",
+    "thumb": "images/highlights/thumb/brand-05.webp",
+    "alt": "Sunset over the Atlas Mountains near Marrakech"
+  },
+  {
+    "id": "brand-06",
+    "large": "images/highlights/large/brand-06.webp",
+    "thumb": "images/highlights/thumb/brand-06.webp",
+    "alt": "Camel ride experience in the Atlas foothills"
+  },
+  {
+    "id": "brand-07",
+    "large": "images/highlights/large/brand-07.webp",
+    "thumb": "images/highlights/thumb/brand-07.webp",
+    "alt": "Waterfall stop on the Imlil village hike"
+  },
+  {
+    "id": "brand-08",
+    "large": "images/highlights/large/brand-08.webp",
+    "thumb": "images/highlights/thumb/brand-08.webp",
+    "alt": "Local Berber village life in the High Atlas"
+  },
+  {
+    "id": "brand-09",
+    "large": "images/highlights/large/brand-09.webp",
+    "thumb": "images/highlights/thumb/brand-09.webp",
+    "alt": "Group portrait with Atlas Pathway Journeys guide Abdulaziz"
+  },
+  {
+    "id": "brand-10",
+    "large": "images/highlights/large/brand-10.webp",
+    "thumb": "images/highlights/thumb/brand-10.webp",
+    "alt": "Mountain trail lunch stop with tagine and fresh bread"
+  },
+  {
+    "id": "brand-11",
+    "large": "images/highlights/large/brand-11.webp",
+    "thumb": "images/highlights/thumb/brand-11.webp",
+    "alt": "Terraced valley walk in the Imlil region"
+  },
+  {
+    "id": "brand-12",
+    "large": "images/highlights/large/brand-12.webp",
+    "thumb": "images/highlights/thumb/brand-12.webp",
+    "alt": "Trekkers resting at a scenic Atlas Mountains viewpoint"
+  },
+  {
+    "id": "brand-13",
+    "large": "images/highlights/large/brand-13.webp",
+    "thumb": "images/highlights/thumb/brand-13.webp",
+    "alt": "Authentic Amazigh (Berber) culture experience near Marrakech"
+  },
+  {
+    "id": "brand-14",
+    "large": "images/highlights/large/brand-14.webp",
+    "thumb": "images/highlights/thumb/brand-14.webp",
+    "alt": "Ridge line trekking on the High Atlas Trekking Adventure"
+  },
+  {
+    "id": "brand-15",
+    "large": "images/highlights/large/brand-15.webp",
+    "thumb": "images/highlights/thumb/brand-15.webp",
+    "alt": "Guided day trip group exploring the Atlas Mountains"
+  },
+  {
+    "id": "brand-16",
+    "large": "images/highlights/large/brand-16.webp",
+    "thumb": "images/highlights/thumb/brand-16.webp",
+    "alt": "Guests enjoying a guided Atlas Mountains hike with Abdulaziz"
+  },
+  {
+    "id": "brand-17",
+    "large": "images/highlights/large/brand-17.webp",
+    "thumb": "images/highlights/thumb/brand-17.webp",
+    "alt": "Traditional Berber mint tea break on the trail near Imlil"
+  },
+  {
+    "id": "brand-18",
+    "large": "images/highlights/large/brand-18.webp",
+    "thumb": "images/highlights/thumb/brand-18.webp",
+    "alt": "Panoramic valley views on the High Atlas trekking route"
+  },
+  {
+    "id": "brand-19",
+    "large": "images/highlights/large/brand-19.webp",
+    "thumb": "images/highlights/thumb/brand-19.webp",
+    "alt": "Small group hiking through an Atlas Mountains village"
+  },
+  {
+    "id": "brand-20",
+    "large": "images/highlights/large/brand-20.webp",
+    "thumb": "images/highlights/thumb/brand-20.webp",
+    "alt": "Sunset over the Atlas Mountains near Marrakech"
+  },
+  {
+    "id": "brand-21",
+    "large": "images/highlights/large/brand-21.webp",
+    "thumb": "images/highlights/thumb/brand-21.webp",
+    "alt": "Camel ride experience in the Atlas foothills"
+  },
+  {
+    "id": "brand-22",
+    "large": "images/highlights/large/brand-22.webp",
+    "thumb": "images/highlights/thumb/brand-22.webp",
+    "alt": "Waterfall stop on the Imlil village hike"
+  },
+  {
+    "id": "brand-23",
+    "large": "images/highlights/large/brand-23.webp",
+    "thumb": "images/highlights/thumb/brand-23.webp",
+    "alt": "Local Berber village life in the High Atlas"
+  },
+  {
+    "id": "brand-24",
+    "large": "images/highlights/large/brand-24.webp",
+    "thumb": "images/highlights/thumb/brand-24.webp",
+    "alt": "Group portrait with Atlas Pathway Journeys guide Abdulaziz"
+  },
+  {
+    "id": "brand-25",
+    "large": "images/highlights/large/brand-25.webp",
+    "thumb": "images/highlights/thumb/brand-25.webp",
+    "alt": "Mountain trail lunch stop with tagine and fresh bread"
+  },
+  {
+    "id": "brand-26",
+    "large": "images/highlights/large/brand-26.webp",
+    "thumb": "images/highlights/thumb/brand-26.webp",
+    "alt": "Terraced valley walk in the Imlil region"
+  },
+  {
+    "id": "brand-27",
+    "large": "images/highlights/large/brand-27.webp",
+    "thumb": "images/highlights/thumb/brand-27.webp",
+    "alt": "Trekkers resting at a scenic Atlas Mountains viewpoint"
+  },
+  {
+    "id": "brand-28",
+    "large": "images/highlights/large/brand-28.webp",
+    "thumb": "images/highlights/thumb/brand-28.webp",
+    "alt": "Authentic Amazigh (Berber) culture experience near Marrakech"
+  },
+  {
+    "id": "brand-29",
+    "large": "images/highlights/large/brand-29.webp",
+    "thumb": "images/highlights/thumb/brand-29.webp",
+    "alt": "Ridge line trekking on the High Atlas Trekking Adventure"
+  },
+  {
+    "id": "brand-30",
+    "large": "images/highlights/large/brand-30.webp",
+    "thumb": "images/highlights/thumb/brand-30.webp",
+    "alt": "Guided day trip group exploring the Atlas Mountains"
+  },
+  {
+    "id": "brand-31",
+    "large": "images/highlights/large/brand-31.webp",
+    "thumb": "images/highlights/thumb/brand-31.webp",
+    "alt": "Guests enjoying a guided Atlas Mountains hike with Abdulaziz"
+  },
+  {
+    "id": "brand-32",
+    "large": "images/highlights/large/brand-32.webp",
+    "thumb": "images/highlights/thumb/brand-32.webp",
+    "alt": "Traditional Berber mint tea break on the trail near Imlil"
+  },
+  {
+    "id": "brand-33",
+    "large": "images/highlights/large/brand-33.webp",
+    "thumb": "images/highlights/thumb/brand-33.webp",
+    "alt": "Panoramic valley views on the High Atlas trekking route"
+  },
+  {
+    "id": "brand-34",
+    "large": "images/highlights/large/brand-34.webp",
+    "thumb": "images/highlights/thumb/brand-34.webp",
+    "alt": "Small group hiking through an Atlas Mountains village"
+  },
+  {
+    "id": "brand-35",
+    "large": "images/highlights/large/brand-35.webp",
+    "thumb": "images/highlights/thumb/brand-35.webp",
+    "alt": "Sunset over the Atlas Mountains near Marrakech"
+  },
+  {
+    "id": "brand-36",
+    "large": "images/highlights/large/brand-36.webp",
+    "thumb": "images/highlights/thumb/brand-36.webp",
+    "alt": "Camel ride experience in the Atlas foothills"
+  },
+  {
+    "id": "brand-37",
+    "large": "images/highlights/large/brand-37.webp",
+    "thumb": "images/highlights/thumb/brand-37.webp",
+    "alt": "Waterfall stop on the Imlil village hike"
+  },
+  {
+    "id": "brand-38",
+    "large": "images/highlights/large/brand-38.webp",
+    "thumb": "images/highlights/thumb/brand-38.webp",
+    "alt": "Local Berber village life in the High Atlas"
+  },
+  {
+    "id": "brand-39",
+    "large": "images/highlights/large/brand-39.webp",
+    "thumb": "images/highlights/thumb/brand-39.webp",
+    "alt": "Group portrait with Atlas Pathway Journeys guide Abdulaziz"
+  },
+  {
+    "id": "brand-40",
+    "large": "images/highlights/large/brand-40.webp",
+    "thumb": "images/highlights/thumb/brand-40.webp",
+    "alt": "Mountain trail lunch stop with tagine and fresh bread"
+  },
+  {
+    "id": "brand-41",
+    "large": "images/highlights/large/brand-41.webp",
+    "thumb": "images/highlights/thumb/brand-41.webp",
+    "alt": "Terraced valley walk in the Imlil region"
+  },
+  {
+    "id": "brand-42",
+    "large": "images/highlights/large/brand-42.webp",
+    "thumb": "images/highlights/thumb/brand-42.webp",
+    "alt": "Trekkers resting at a scenic Atlas Mountains viewpoint"
+  },
+  {
+    "id": "brand-43",
+    "large": "images/highlights/large/brand-43.webp",
+    "thumb": "images/highlights/thumb/brand-43.webp",
+    "alt": "Authentic Amazigh (Berber) culture experience near Marrakech"
+  },
+  {
+    "id": "brand-44",
+    "large": "images/highlights/large/brand-44.webp",
+    "thumb": "images/highlights/thumb/brand-44.webp",
+    "alt": "Ridge line trekking on the High Atlas Trekking Adventure"
+  },
+  {
+    "id": "brand-45",
+    "large": "images/highlights/large/brand-45.webp",
+    "thumb": "images/highlights/thumb/brand-45.webp",
+    "alt": "Guided day trip group exploring the Atlas Mountains"
+  },
+  {
+    "id": "brand-46",
+    "large": "images/highlights/large/brand-46.webp",
+    "thumb": "images/highlights/thumb/brand-46.webp",
+    "alt": "Guests enjoying a guided Atlas Mountains hike with Abdulaziz"
+  },
+  {
+    "id": "brand-47",
+    "large": "images/highlights/large/brand-47.webp",
+    "thumb": "images/highlights/thumb/brand-47.webp",
+    "alt": "Traditional Berber mint tea break on the trail near Imlil"
+  },
+  {
+    "id": "brand-48",
+    "large": "images/highlights/large/brand-48.webp",
+    "thumb": "images/highlights/thumb/brand-48.webp",
+    "alt": "Panoramic valley views on the High Atlas trekking route"
+  },
+  {
+    "id": "brand-49",
+    "large": "images/highlights/large/brand-49.webp",
+    "thumb": "images/highlights/thumb/brand-49.webp",
+    "alt": "Small group hiking through an Atlas Mountains village"
+  },
+  {
+    "id": "brand-50",
+    "large": "images/highlights/large/brand-50.webp",
+    "thumb": "images/highlights/thumb/brand-50.webp",
+    "alt": "Sunset over the Atlas Mountains near Marrakech"
+  },
+  {
+    "id": "brand-51",
+    "large": "images/highlights/large/brand-51.webp",
+    "thumb": "images/highlights/thumb/brand-51.webp",
+    "alt": "Camel ride experience in the Atlas foothills"
+  },
+  {
+    "id": "brand-52",
+    "large": "images/highlights/large/brand-52.webp",
+    "thumb": "images/highlights/thumb/brand-52.webp",
+    "alt": "Waterfall stop on the Imlil village hike"
+  },
+  {
+    "id": "brand-53",
+    "large": "images/highlights/large/brand-53.webp",
+    "thumb": "images/highlights/thumb/brand-53.webp",
+    "alt": "Local Berber village life in the High Atlas"
+  },
+  {
+    "id": "brand-54",
+    "large": "images/highlights/large/brand-54.webp",
+    "thumb": "images/highlights/thumb/brand-54.webp",
+    "alt": "Group portrait with Atlas Pathway Journeys guide Abdulaziz"
+  },
+  {
+    "id": "brand-55",
+    "large": "images/highlights/large/brand-55.webp",
+    "thumb": "images/highlights/thumb/brand-55.webp",
+    "alt": "Mountain trail lunch stop with tagine and fresh bread"
+  },
+  {
+    "id": "brand-56",
+    "large": "images/highlights/large/brand-56.webp",
+    "thumb": "images/highlights/thumb/brand-56.webp",
+    "alt": "Terraced valley walk in the Imlil region"
+  },
+  {
+    "id": "brand-57",
+    "large": "images/highlights/large/brand-57.webp",
+    "thumb": "images/highlights/thumb/brand-57.webp",
+    "alt": "Trekkers resting at a scenic Atlas Mountains viewpoint"
+  },
+  {
+    "id": "brand-58",
+    "large": "images/highlights/large/brand-58.webp",
+    "thumb": "images/highlights/thumb/brand-58.webp",
+    "alt": "Authentic Amazigh (Berber) culture experience near Marrakech"
+  },
+  {
+    "id": "brand-59",
+    "large": "images/highlights/large/brand-59.webp",
+    "thumb": "images/highlights/thumb/brand-59.webp",
+    "alt": "Ridge line trekking on the High Atlas Trekking Adventure"
+  },
+  {
+    "id": "brand-60",
+    "large": "images/highlights/large/brand-60.webp",
+    "thumb": "images/highlights/thumb/brand-60.webp",
+    "alt": "Guided day trip group exploring the Atlas Mountains"
+  },
+  {
+    "id": "brand-61",
+    "large": "images/highlights/large/brand-61.webp",
+    "thumb": "images/highlights/thumb/brand-61.webp",
+    "alt": "Guests enjoying a guided Atlas Mountains hike with Abdulaziz"
+  },
+  {
+    "id": "brand-62",
+    "large": "images/highlights/large/brand-62.webp",
+    "thumb": "images/highlights/thumb/brand-62.webp",
+    "alt": "Traditional Berber mint tea break on the trail near Imlil"
+  },
+  {
+    "id": "brand-63",
+    "large": "images/highlights/large/brand-63.webp",
+    "thumb": "images/highlights/thumb/brand-63.webp",
+    "alt": "Panoramic valley views on the High Atlas trekking route"
+  },
+  {
+    "id": "brand-64",
+    "large": "images/highlights/large/brand-64.webp",
+    "thumb": "images/highlights/thumb/brand-64.webp",
+    "alt": "Small group hiking through an Atlas Mountains village"
+  },
+  {
+    "id": "brand-65",
+    "large": "images/highlights/large/brand-65.webp",
+    "thumb": "images/highlights/thumb/brand-65.webp",
+    "alt": "Sunset over the Atlas Mountains near Marrakech"
+  }
+]
